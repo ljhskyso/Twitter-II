@@ -38,7 +38,9 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 @dropbox - gif @ https://www.dropbox.com/s/meqqevuqei3tw51/HW4.gif?dl=0
+
 @dropbox - quicktimes video @ https://www.dropbox.com/s/k1gh7vp4ongmmer/HW4.mov?dl=0
+
 @imgur - gif @ http://imgur.com/grIIm13
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
